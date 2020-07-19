@@ -1,0 +1,39 @@
+header{
+    background-color: black;
+    padding-top: 10px;
+    padding-right:10px;
+    padding-left: 10px;
+    padding-bottom: 0;
+    color:#fff;
+    border-bottom: 1px solid pink;
+}
+
+header h1{
+    text-align: center;
+
+}
+
+body{
+    background-color: black;
+    padding: 10px;
+    color:#fff;
+}
+
+.explain_1{
+    text-align: left;
+    font-size:20px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+.explain_2{
+    text-align: right;
+    font-size:20px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.img{
+    text-align: center;
+}
